@@ -1,0 +1,15 @@
+{
+  "name": "mindmintapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mindmint_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.2",
+    "express": "^4.19.2"
+  }
+}
